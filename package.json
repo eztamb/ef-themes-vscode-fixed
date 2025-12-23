@@ -1,10 +1,14 @@
 {
 	"name": "ef-themes-fixed",
 	"displayName": "Ef-Themes for VSCode Fixed",
-	"publisher": "eziotamburini",
+	"publisher": "eztamb",
 	"icon": "icon.png",
 	"version": "1.0.0" ,
     "license": "GPL-3.0-or-later",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eztamb/ef-themes-vscode-fixed.git"
+	},
 	"engines": {
 		"vscode": "^1.12.0"
 	},
